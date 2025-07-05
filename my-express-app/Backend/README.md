@@ -3,23 +3,6 @@
 ## Overview
 This project is a simple Express application that serves as a starting point for building web applications. It includes basic structure and files necessary for setting up an Express server, middleware, and routing.
 
-## Project Structure
-```
-my-express-app
-├── src
-│   ├── app.js          # Main entry point for the application
-│   ├── server.js       # Server setup and configuration
-│   ├── package.json     # Project metadata and dependencies
-│   ├── middleare
-│   │   └── logger.js   # Middleware for logging requests and responses
-│   ├── routes
-│   │   └── shorturl.js  # Routes for handling short URL requests
-│   └── utils
-│       └── helpers.js   # Utility functions for the application
-└── README.md           # Documentation for the project
-```
-
-## Getting Started
 
 ### Prerequisites
 - Node.js (version 12 or higher)
