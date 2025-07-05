@@ -30,10 +30,5 @@ npm start
 The server will start and listen for incoming requests.
 
 ### Usage
-You can access the application at `http://localhost:3000` (or the port specified in your server configuration).
+You can access the application at `http://localhost:3000`.
 
-### Contributing
-Feel free to submit issues or pull requests for any improvements or features you would like to see in this project.
-
-### License
-This project is licensed under the ISC License.
